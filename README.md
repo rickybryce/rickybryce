@@ -19,6 +19,7 @@
   <li>IMSAI 8080</li>
   <li>Digital PDP-11</li>
   <li>RC2014</li>
+  <li>SC126 Z180</li>
   <li>Zeta V2</li>
   <li>PAL-1 (KIM-1 Clone)</li>
   <li>KIMUNO (KIM-1 Clone)</li>
